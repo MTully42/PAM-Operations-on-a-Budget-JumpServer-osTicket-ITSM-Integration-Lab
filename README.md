@@ -6,7 +6,6 @@ PAM Operations on a Budget: JumpServer & osTicket ITSM Integration Lab
 
 This repository documents a functional home lab created to demonstrate core competencies required for a Senior II PAM Support Specialist, aligning directly with the provided job description. The lab utilizes free and open-source software (FOSS) to simulate a production-level Privileged Access Management (PAM) environment and its integration with an IT Service Management (ITSM) ticketing workflow.
 
-http://googleusercontent.com/image_collection/image_retrieval/10726307739780035701_0
 
 💼 Demonstrated Core Competencies
 
@@ -26,7 +25,7 @@ This project provides verifiable experience in:
 
 This foundational step uses free hypervisors and evaluation software to build a realistic network environment.
 
-http://googleusercontent.com/image_collection/image_retrieval/8353349473306161358_0
+
 
 Virtual Machines (VMs)
 
@@ -49,7 +48,7 @@ Setup Instructions
 
 JumpServer replaces CyberArk for this lab, demonstrating secure credential management and auditing.
 
-http://googleusercontent.com/image_collection/image_retrieval/2295394099675074548_0
+
 
 2.1 Installation & AD Integration
 
@@ -75,7 +74,6 @@ http://googleusercontent.com/image_collection/image_retrieval/229539409967507454
 
 osTicket replaces Ivanti Front Range, simulating the critical Service Desk functions.
 
-http://googleusercontent.com/image_collection/image_retrieval/16559209151183984190_0
 
 3.1 Installation & SLA Configuration
 
